@@ -7,6 +7,6 @@ Project to build illegal drug selling tweets classifier
 ### Checklist  
 
 - [x] 1.preprocess_func  
-- [ ] 2.model  
+- [x] 2.model  
 - [ ] 3. accuracy  
 - [ ] 4. collect data  
